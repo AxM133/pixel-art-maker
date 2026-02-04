@@ -61,7 +61,6 @@ A modern, responsive, and feature-rich Pixel Art Editor built with **React** and
 * **Logic:** HTML5 Canvas API (for export)
 
 ### 📦 Installation
-    ```bash
     git clone https://github.com/AxM133/pixel-art-maker.git
     cd pixel-art-maker
     npm install
@@ -99,19 +98,15 @@ A modern, responsive, and feature-rich Pixel Art Editor built with **React** and
 ### 📦 Установка и запуск
 
 # 1. Склонировать репозиторий
-    ```bash
     git clone https://github.com/AxM133/pixel-art-maker.git
 
 # 2. Перейти в папку
-    ```bash
     cd pixel-art-maker
 
 # 3. Установить зависимости
-    ```bash
     npm install
 
 # 4. Запустить локальный сервер
-    ```bash
     npm run dev
 
 ---
